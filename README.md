@@ -1,6 +1,3 @@
-# Curriculo
-Um repositório para manter uma versão on-line do meu currículo.
-
 # Ivan Alisson Cavalcante Nunes de Lima
 
 Undergraduate Student Researcher na Universidade Federal do Rio Grande do Norte
