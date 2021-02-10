@@ -1,13 +1,13 @@
 # Ivan Alisson Cavalcante Nunes de Lima
 
-Undergraduate Student Researcher na Universidade Federal do Rio Grande do Norte
+Data Scientist and Undergraduate Student Researcher na Universidade Federal do Rio Grande do Norte
 
 :house:    Natal/RN <br>
 :envelope:  ivanalisson@gmail.com
 
-Graduando em TI pela UFRN, com formação secundária em Bioinformática. Possuo experiência com programação, desenvolvimento web e ensino. Atualmente sou pesquisador voluntário, na UFRN, trabalhando com análise de sinais eletrofisiológicos no hipocampo de ratos. Minha área de especialidade é análise de dados utilizando majoritariamente python e pandas.
+Graduando em TI pela UFRN, com formação secundária em Bioinformática. Possuo experiência com programação, pesquisa e ensino. Um aventureiro cientista de dados e, atualmente, pesquisador no Instituto do cérebro da UFRN, trabalhando com análise de sinais eletrofisiológicos no hipocampo de ratos. Acumulo mais de cinco anos de experiência utilizando python(pandas, numpy, scipy,..) e excel/Google spreadsheet. Já trabalhei com C++, Java, MySQL, R e Matlab. Falo inglês e minha área de especialidade é análise de dados. Além disso, venho me aprofundando em estatística, 'machine learning'(ML) e inteligência artificial(IA).
 
-Professor de forró nas horas vagas e ex-voluntário da AIESEC, grupo que trabalha com intercâmbio social, onde jovens líderes de outros países prestam trabalho voluntário em instituições de caridade. Eletrônica e dança de salão são meus principais hobbies
+Movido por curiosidade, professor de forró nas horas vagas e ex-voluntário da AIESEC, grupo que trabalha com intercâmbio social, onde jovens líderes de outros países prestam trabalho voluntário em instituições de caridade. Eletrônica, diy e dança de salão são meus principais hobbies.
 
 ## Formação
 
@@ -35,6 +35,8 @@ Atuei como assistente administrativo por cerca de três anos, o primeiro ano em 
 ## Conhecimentos
 
 ### Licenças, cursos e certificados
+* **Bootcamp Data Science Aplicada 2021** - Alura Cursos Online, 2020 - Presente.
+* **Huawei HCIA-AI** - Huawei/IMD-UFRN, 2020 - Presente.
 * **Introduction to Programming with MATLAB** - Coursera - 2020
 Nº da credencial XW7T5KQPYM5E
 * **R Programming** - Coursera - 2020
