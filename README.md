@@ -9,6 +9,11 @@ Graduando em TI pela UFRN, com formação secundária em Bioinformática. Possuo
 
 Movido por curiosidade, professor de forró nas horas vagas e ex-voluntário da AIESEC, grupo que trabalha com intercâmbio social, onde jovens líderes de outros países prestam trabalho voluntário em instituições de caridade. Eletrônica, diy e dança de salão são meus principais hobbies.
 
+## Links
+*  [Linkedin](https://www.linkedin.com/in/ivan-alisson-cavalcante-nunes-de-lima-76964991/)
+*  [GitHub](https://github.com/bombermal/)
+*  [Lattes](http://lattes.cnpq.br/6499865707489358/)
+
 ## Formação
 
 - 2020 - Presente: **Graduação**, UFRN, Natal-RN, Tecnologia da Informação.<br>
@@ -81,10 +86,3 @@ Uma visão sobre a origem e evolução do ciclo do glioxilato em Viridiplantae -
 * Programação
 * DIY
 * Gestão
-
-## Links
-*  [Linkedin](https://www.linkedin.com/in/ivan-alisson-cavalcante-nunes-de-lima-76964991/)
-*  [GitHub](https://github.com/bombermal/)
-*  [Lattes](http://lattes.cnpq.br/6499865707489358/)
-
-
