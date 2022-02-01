@@ -5,7 +5,8 @@ Data Scientist and Undergraduate Student Researcher na Universidade Federal do R
 :house:    Natal/RN <br>
 :envelope:  ivanalisson@gmail.com
 
-Graduando em TI pela UFRN, com formação secundária em Bioinformática. Possuo experiência com programação, pesquisa e ensino. Um aventureiro cientista de dados e, atualmente, pesquisador no Instituto do cérebro da UFRN, trabalhando com análise de sinais eletrofisiológicos no hipocampo de ratos. Acumulo mais de cinco anos de experiência utilizando python(pandas, numpy, scipy,..) e excel/Google spreadsheet. Já trabalhei com C++, Java, MySQL, R e Matlab. Falo inglês e minha área de especialidade é análise de dados. Além disso, venho me aprofundando em estatística, 'machine learning'(ML) e inteligência artificial(IA).
+Pesquisador e estudante de mestrado em bioinformática. Sou determinado, objetivo e estou sempre buscando novas formas de resolver problemas; um experiente programador python(4+ anos) que ama dados, pesquisa e ensino.
+Em uma base diária, estou habituado a gerenciar dados utilizando SQL, excel/Google planilhas, processar dados utilizando pandas e outras bibliotecas python, preparar apresentações e discutir resultados, problemas e outros desafios de pesquisa com grupos de trabalho. Falo inglês e já desenvolvi projetos envolvendo análise de dados,  bancos de dados, biologia estrutural e neurociência.
 
 Movido por curiosidade, professor de forró nas horas vagas e ex-voluntário da AIESEC, grupo que trabalha com intercâmbio social, onde jovens líderes de outros países prestam trabalho voluntário em instituições de caridade. Eletrônica, diy e dança de salão são meus principais hobbies.
 
@@ -16,7 +17,10 @@ Movido por curiosidade, professor de forró nas horas vagas e ex-voluntário da 
 
 ## Formação
 
-- 2020 - Presente: **Graduação**, UFRN, Natal-RN, Tecnologia da Informação.<br>
+- 2020 - 2023: **Mestrado**, UFRN, Natal-RN, Bioinformática.<br>
+Programa de pós graduação em bioinformática com previsão de término para 2023
+
+- 2020 - 2021: **Graduação**, UFRN, Natal-RN, Tecnologia da Informação.<br>
 Bacharelado em Tecnologia da Informação com previsão de término para 2021
 
 ## Experiência Profissional
