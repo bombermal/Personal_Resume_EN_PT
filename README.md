@@ -1,6 +1,7 @@
 # Ivan Alisson Cavalcante Nunes de Lima
 
-Data Scientist and Undergraduate Student Researcher na Universidade Federal do Rio Grande do Norte
+# PT
+Data Engineer and Undergraduate Student Researcher na Universidade Federal do Rio Grande do Norte
 
 :house:    Natal/RN <br>
 :envelope:  ivanalisson@gmail.com
@@ -21,7 +22,7 @@ Movido por curiosidade, professor de forró nas horas vagas e ex-voluntário da 
 Programa de pós graduação em bioinformática com previsão de término para 2023
 
 - 2020 - 2021: **Graduação**, UFRN, Natal-RN, Tecnologia da Informação.<br>
-Bacharelado em Tecnologia da Informação com previsão de término para 2021
+Bacharelado em Tecnologia.
 
 ## Experiência Profissional
 - 2020 - Presente: **Undergraduate Student Researcher**, ICe - UFRN, Natal.
@@ -90,3 +91,65 @@ Uma visão sobre a origem e evolução do ciclo do glioxilato em Viridiplantae -
 * Programação
 * DIY
 * Gestão
+
+# EN
+Data Engineer and Undergraduate Student Researcher at the Federal University of Rio Grande do Norte
+
+:house: Natal/RN <br>
+:envelope: ivanalisson@gmail.com
+
+Researcher and master's student in bioinformatics. I am determined, objective and I am always looking for new ways to solve problems; an experienced python programmer(4+ years) who loves data, research and teaching.
+On a daily basis, I am used to managing data using SQL, excel/Google spreadsheets, processing data using pandas and other python libraries, preparing presentations and discussing results, problems and other research challenges with workgroups. I speak English and have already developed projects involving data analysis, databases, structural biology and neuroscience.
+
+Moved by curiosity, forró teacher in his spare time and former volunteer at AIESEC, a group that works with social exchange, where young leaders from other countries do volunteer work in charities. Electronics, DIY and ballroom dancing are my main hobbies.
+
+## Links
+* [Linkedin](https://www.linkedin.com/in/ivan-alisson-cavalcante-nunes-de-lima-76964991/)
+* [GitHub](https://github.com/bombermal/)
+* [Lattes](http://lattes.cnpq.br/6499865707489358/)
+
+## Training
+
+- 2020 - 2023: **Master's degree**, UFRN, Natal-RN, Bioinformatics.<br>
+Postgraduate program in bioinformatics scheduled to end in 2023
+
+- 2020 - 2021: **Graduation**, UFRN, Natal-RN, Information Technology.<br>
+Bachelor's Degree in Information Technology.
+
+## Professional experience
+- 2020 - Present: **Undergraduate Student Researcher**, ICe - UFRN, Natal.
+Undergraduate student at Instituto do Brain, working with hippocampal wave analysis before, during and after exercise, in rats.
+- 2018 – 2020: **Undergraduate Student Researcher**, BioMe - UFRN, Natal.
+Undergraduate student with work in the area of ​​waste interactions network, Zika virus and Covid-19.
+- 2019–2019: **Undergraduate Student Researcher**, IMT - UFRN, Natal.
+I worked as a volunteer researcher in a project that aims to promote unplugged activities to encourage logical thinking for children as well as familiarize them with computer use and offer a digital inclusion course so that students feel comfortable in the digital environment and learn to handle tools basic. The focus of our work was 5th grade students.
+- 2017–2017: **Monitor**, IMD - UFRN, Natal.
+Tutor for the Introduction to Bioinformatics course.
+- 2019–2020 **Scholarship holder, PraDançar Escola de Dança**, Natal.
+At PraDançar academy, I have a scholarship and help teachers during classes, clearing up students' doubts and teaching techniques that can help them in their development.
+- 2019–2020: **Volunteer**, AIESEC, Natal.
+AIESEC is an NGO that promotes voluntary exchanges in several countries. Its volunteers travel to other countries and work on social causes, seeking to develop a sense of leadership and humanity. I worked as a volunteer in the city of Natal, helping foreign volunteers in their work in this city, working with them on teaching projects and collecting donations for the institutions in which they worked.
+- 2011–2013: **Assistant mechanic**, Potiguar Diesel, Caicó-RN.
+I worked as an assistant mechanic. For about a year and eight months
+- 2007–2010: **Administrative Assistant**, Potiguar Diesel, Caicó-RN.
+I worked as an administrative assistant for about three years, the first year in Caicó and the remaining time, in Natal, remotely.
+
+## Knowledge
+
+### Licenses, courses and certificates
+* **Bootcamp Applied Data Science 2021** - Alura Online Courses, 2020 - Present.
+* **Huawei HCIA-AI** - Huawei/IMD-UFRN, 2020 - Present.
+* **Introduction to Programming with MATLAB** - Coursera - 2020
+Credential No. XW7T5KQPYM5E
+* **R Programming** - Coursera - 2020
+Credential No. MVZA4AJKADEM
+* **Personal Management - Leadership Basis** - National School of Public Administration ENAP - 2020
+Credential No. 9y8A3292913T1dR
+* **III North and Northeast Bioinformatics Symposium** - Federal University of Pernambuco - 2018
+Using residue interaction networks to understand the structural consequences and origin of polymorphisms in Zika virus genomes - Presentation - Author
+* **I North-Northeast Bioinformatics Symposium** - Federal University of Pará - 2017
+An insight into the origin and evolution of the glyoxylate cycle in Viridiplantae - Presentation - Co-author
+* **Mini-course Systems Biology** - Federal University of Pará - 2017
+* **SB-MEETING 2016 - FROM ALGORITHMS TO DISEASE: TRANSLATIONAL RESEARCH IN BIOINFORMATICS AND SYSTEMS BIOLOGY** - Federal University of Rio Grande do Norte - 2016
+* **BINFO II BIOINFORMATICS SEMINARS** - Federal University of Rio Grande do Norte - 2016
+* **I NORTH-NORTHEAST SYMPOSIUM ON BIOINFORMATICS** - Federal University of Rio Gra
