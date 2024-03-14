@@ -1,15 +1,20 @@
 # Ivan Alisson Cavalcante Nunes de Lima
 
 # PT
-Data Engineer and Undergraduate Student Researcher na Universidade Federal do Rio Grande do Norte
+Programador e especialista em Business Intelligence e Analytics pela UFRN e TRE/RN
 
 :house:    Natal/RN <br>
 :envelope:  ivanalisson@gmail.com
 
-Pesquisador e estudante de mestrado em bioinformática. Sou determinado, objetivo e estou sempre buscando novas formas de resolver problemas; um experiente programador python(4+ anos) que ama dados, pesquisa e ensino.
-Em uma base diária, estou habituado a gerenciar dados utilizando SQL, excel/Google planilhas, processar dados utilizando pandas e outras bibliotecas python, preparar apresentações e discutir resultados, problemas e outros desafios de pesquisa com grupos de trabalho. Falo inglês e já desenvolvi projetos envolvendo análise de dados,  bancos de dados, biologia estrutural e neurociência.
+Especialista em Business Intelligence e Analytics pela UFRN e TRE/RN, sou um profissional determinado e focado em busca constante de novas soluções para desafios. Com mais de 3 anos de experiência como programador, tenho paixão pela tecnologia, pesquisa e ensino.
 
-Movido por curiosidade, professor de forró nas horas vagas e ex-voluntário da AIESEC, grupo que trabalha com intercâmbio social, onde jovens líderes de outros países prestam trabalho voluntário em instituições de caridade. Eletrônica, diy e dança de salão são meus principais hobbies.
+Na área de infraestrutura, estou desenvolvendo habilidades em ferramentas como Docker, SSH, Proxmox e Gitlab CI/CD.
+
+No dia a dia, estou engajado na gestão, modelagem, engenharia e análise de dados, empregando ferramentas como SQL/Postgres, web scraping e Excel/Google Planilhas. Além disso, crio ETLs com o Pentaho Data Integration, Airbyte e dbt. Manipulo dados usando pySpark, Apache Airflow para orquestração de tarefas . Tenho ampla experiência em preparar apresentações, lidar com clientes, entender suas necessidade e conduzir discussões sobre resultados e desafios dos projetos com colegas de equipe e cliente. 
+
+Além disso, falo inglês e tenho experiência em projetos que abrangem análise de dados, biologia estrutural e neurociência.
+
+Movido pela curiosidade, sou professor de forró nas horas vagas e um ex-voluntário da AIESEC. Meus principais hobbies incluem eletrônica, projetos DIY e dança de salão.
 
 ## Links
 *  [Linkedin](https://www.linkedin.com/in/ivan-alisson-cavalcante-nunes-de-lima-76964991/)
@@ -18,15 +23,22 @@ Movido por curiosidade, professor de forró nas horas vagas e ex-voluntário da 
 
 ## Formação
 
-- 2020 - 2023: **Mestrado**, UFRN, Natal-RN, Bioinformática.<br>
-Programa de pós graduação em bioinformática com previsão de término para 2023
+- 2022 - 2023: **Pós graduação**, UFRN, Natal-RN, Residência em TI.<br>
+Programa de Residência Em Tecnologia Da Informação, Business Intelligence e Analytics 
 
 - 2020 - 2021: **Graduação**, UFRN, Natal-RN, Tecnologia da Informação.<br>
 Bacharelado em Tecnologia.
 
 ## Experiência Profissional
-- 2020 - Presente: **Undergraduate Student Researcher**, ICe - UFRN, Natal.
-Estudante de iniciação científica no Instituto do cérebro, trabalhando com análise de ondas no hipocampo antes, durante e após exercícios, em ratos.
+- 2024 - Presente: **Tech Lead - Business Intelligence e Analytics**, TRE/RN, Natal.
+Gerencio as equipes de engenharia e análise de dados da instituição.<br>
+Competências: Gerenciamento, Power BI, Python, GitLab, Spark, Airflow Postgres, PDI e Metabase.
+- 2022 - 2023: **Pós-graduando**, UFRN, Natal.
+Construí soluções de BI para a área de negócios da organização. Trabalhei desde a estruturação do banco de dados, aquisição, processamento e preparação dos dados (ELT/ETL) até a apresentação de soluções (Dashboard/Painel) para o cliente. Criei pipeline de dados que automatizou o trabalho para duas secretarias, permitindo uma análise mais rápida de informações financeiras e liberando os servidores de tarefas manuais e repetitivas.<br>
+Competências: BI, Python, GIT, GitLab CI, Docker, Postgres, PDI e Metabase. 
+- 2020 - 2022: **Undergraduate Student Researcher**, ICe - UFRN, Natal.
+Trabalhei durante iniciação científica no Instituto do Cérebro (ICe-UFRN), com análise de ondas no hipocampo de ratos. Antes, durante e após exercícios. Encontrei e documentei a presença de 4Hz mesmo após a inativação do Septo medial.<br>
+Competências: Pesquisa, Python, Matlab,  estatística e neurobiologia
 - 2018 – 2020: **Undergraduate Student Researcher**, BioMe - UFRN, Natal.
 Estudante de iniciação científica com trabalhos na área rede de interações de resíduos, Zika vírus e Covid-19.
 - 2019–2019: **Undergraduate Student Researcher**, IMT - UFRN, Natal.
@@ -34,9 +46,10 @@ Atuei como pesquisador voluntário em um projeto que possui como intuito promove
 - 2017–2017: **Monitor**, IMD - UFRN, Natal.
 Monitor da disciplina de Introdução a bioinformática.
 - 2019–2020 **Bolsista, PraDançar escola de dança**, Natal.
-Na academia PraDançar, sou bolsista e auxilio aos professores durante as aulas, tirando as dúvidas dos alunos e ensinando técnicas que possam ajuda-lo em seu desenvolvimento.
+Auxiliei aos professores durante as aulas, tirando as dúvidas dos alunos e ensinando técnicas que ajudaram em seu desenvolvimento.<br> Competências: Ensino. 
 - 2019–2020: **Voluntário**, AIESEC, Natal.
-A AIESEC é uma ong que promove intercâmbios voluntários em diversos países. Seus voluntários viajam para outros países e trabalham em causas sociais, buscando assim desenvolver senso de liderança e humanidade. Trabalhei como voluntário na cidade de Natal, auxiliando aos voluntários estrangeiros em seus trabalhos nesta cidade, trabalhando com eles em projetos de ensino e arrecadação de doações para as instituições nas quais atuaram.
+Trabalhei como voluntário na cidade de Natal, auxiliando aos voluntários estrangeiros em seus trabalhos nesta cidade, trabalhando com eles em projetos de ensino e arrecadação de doações para as instituições nas quais atuaram.<br>
+Competências: Liderança de equipe, inglês e espanhol. 
 - 2011–2013: **Mecânico assistente**, Potiguar Diesel, Caicó-RN.
 Atuei como mecânico assistente. Por cerca de um ano e oito meses
 - 2007–2010: **Assistente administrativo**, Potiguar Diesel, Caicó-RN.
@@ -45,8 +58,7 @@ Atuei como assistente administrativo por cerca de três anos, o primeiro ano em 
 ## Conhecimentos
 
 ### Licenças, cursos e certificados
-* **Bootcamp Data Science Aplicada 2021** - Alura Cursos Online, 2020 - Presente.
-* **Huawei HCIA-AI** - Huawei/IMD-UFRN, 2020 - Presente.
+* **Bootcamp Data Science Aplicada 2021** - Alura Cursos Online, 2020.
 * **Introduction to Programming with MATLAB** - Coursera - 2020
 Nº da credencial XW7T5KQPYM5E
 * **R Programming** - Coursera - 2020
@@ -63,21 +75,25 @@ Uma visão sobre a origem e evolução do ciclo do glioxilato em Viridiplantae -
 * **I SIMPÓSIO NORTE-NORDESTE DE BIOINFORMÁTICA** - Universidade Federal do Rio Grande do Norte - 2016
 
 ## Competências e recomendações
-* Bioinformática
-* C++
+* Modelagem de dados
 * Python 
-* GitHub
 * Pandas
-* Arduino
-* Java
-* MySQL
+* Git
+* Gitlab CI/CD
+* Postgres/Oracle
+* Airflow
+* Spark
+* Pentaho Data Integration
+* MetaBase
+* Power BI
+* SQL
 * R
+* C++
 * Matlab
 * Windows
 * Linux
 * Google Spreadsheet/Docs
 * Office
-* Manutenção de computadores
 
 ## Línguas
  - Inglês: Lê/Fala/Escreve (TOEFL ITP - 2016: 553)
@@ -85,23 +101,27 @@ Uma visão sobre a origem e evolução do ciclo do glioxilato em Viridiplantae -
  - Portugês: Fluente ou nativo
 
 ## Interesses
-* Bioinformática
+* Engenharia de dados
 * Análise de dados
-* Machine Learning
 * Programação
-* DIY
 * Gestão
+* DIY
 
 # EN
-Data Engineer and Undergraduate Student Researcher at the Federal University of Rio Grande do Norte
+Programmer and specialist in Business Intelligence and Analytics from UFRN and TRE/RN
 
 :house: Natal/RN <br>
 :envelope: ivanalisson@gmail.com
 
-Researcher and master's student in bioinformatics. I am determined, objective and I am always looking for new ways to solve problems; an experienced python programmer(4+ years) who loves data, research and teaching.
-On a daily basis, I am used to managing data using SQL, excel/Google spreadsheets, processing data using pandas and other python libraries, preparing presentations and discussing results, problems and other research challenges with workgroups. I speak English and have already developed projects involving data analysis, databases, structural biology and neuroscience.
+Specialist in Business Intelligence and Analytics from UFRN and TRE/RN, I am a determined and focused professional in constant search for new solutions to challenges. With more than 3 years of experience as a programmer, I have a passion for technology, research and teaching.
 
-Moved by curiosity, forró teacher in his spare time and former volunteer at AIESEC, a group that works with social exchange, where young leaders from other countries do volunteer work in charities. Electronics, DIY and ballroom dancing are my main hobbies.
+In the infrastructure area, I am developing skills in tools such as Docker, SSH, Proxmox and Gitlab CI/CD.
+
+On a daily basis, I am engaged in data management, modeling, engineering and analysis, using tools such as SQL/Postgres, web scraping and Excel/Google Spreadsheets. Additionally, I create ETLs with Pentaho Data Integration, Airbyte and dbt. I manipulate data using pySpark, Apache Airflow for task orchestration. I have extensive experience in preparing presentations, dealing with clients, understanding their needs and leading discussions about project results and challenges with teammates and clients.
+
+Furthermore, I speak English and have experience in projects that cover data analysis, structural biology and neuroscience.
+
+Driven by curiosity, I am a forró teacher in my spare time and a former volunteer at AIESEC. My main hobbies include electronics, DIY projects and ballroom dancing.
 
 ## Links
 * [Linkedin](https://www.linkedin.com/in/ivan-alisson-cavalcante-nunes-de-lima-76964991/)
@@ -110,25 +130,33 @@ Moved by curiosity, forró teacher in his spare time and former volunteer at AIE
 
 ## Training
 
-- 2020 - 2023: **Master's degree**, UFRN, Natal-RN, Bioinformatics.<br>
-Postgraduate program in bioinformatics scheduled to end in 2023
+2022 - 2023: **Postgraduate**, UFRN, Natal-RN, IT Residency.<br>
+Residency Program in Information Technology, Business Intelligence and Analytics
 
 - 2020 - 2021: **Graduation**, UFRN, Natal-RN, Information Technology.<br>
 Bachelor's Degree in Information Technology.
 
 ## Professional experience
-- 2020 - Present: **Undergraduate Student Researcher**, ICe - UFRN, Natal.
-Undergraduate student at Instituto do Brain, working with hippocampal wave analysis before, during and after exercise, in rats.
+- 2024 - Present: **Tech Lead - Business Intelligence and Analytics**, TRE/RN, Natal.
+I manage the institution's engineering and data analysis teams.<br>
+Skills: Management, Power BI, Python, GitLab, Spark, Airflow Postgres, PDI and Metabase.
+- 2022 - 2023: **Postgraduate student**, UFRN, Natal.
+I built BI solutions for the organization's business area. I worked from structuring the database, acquiring, processing and preparing data (ELT/ETL) to presenting solutions (Dashboard/Panel) to the client. I created a data pipeline that automated work for two departments, allowing faster analysis of financial information and freeing servers from manual and repetitive tasks.<br>
+Skills: BI, Python, GIT, GitLab CI, Docker, Postgres, PDI and Metabase.
+- 2020 - 2022: **Undergraduate Student Researcher**, ICe - UFRN, Natal.
+I worked during scientific initiation at the Brain Institute (ICe-UFRN), analyzing waves in the hippocampus of rats. Before, during and after exercise. I found and documented the presence of 4Hz even after inactivation of the medial Septum.<br>
+Skills: Research, Python, Matlab, statistics and neurobiology
 - 2018 – 2020: **Undergraduate Student Researcher**, BioMe - UFRN, Natal.
-Undergraduate student with work in the area of ​​waste interactions network, Zika virus and Covid-19.
+Scientific initiation student working in the area of waste interaction network, Zika virus and Covid-19.
 - 2019–2019: **Undergraduate Student Researcher**, IMT - UFRN, Natal.
-I worked as a volunteer researcher in a project that aims to promote unplugged activities to encourage logical thinking for children as well as familiarize them with computer use and offer a digital inclusion course so that students feel comfortable in the digital environment and learn to handle tools basic. The focus of our work was 5th grade students.
+I worked as a volunteer researcher on a project that aims to promote unplugged activities to encourage logical reasoning for children as well as familiarize them with using computers and offer a digital inclusion course so that students feel comfortable in the digital environment and learn to use tools basic. The focus of our work was students in the 5th year of elementary school.
 - 2017–2017: **Monitor**, IMD - UFRN, Natal.
-Tutor for the Introduction to Bioinformatics course.
-- 2019–2020 **Scholarship holder, PraDançar Escola de Dança**, Natal.
-At PraDançar academy, I have a scholarship and help teachers during classes, clearing up students' doubts and teaching techniques that can help them in their development.
+Monitor of the Introduction to bioinformatics course.
+- 2019–2020 **Scholarship, PraDançar dance school**, Natal.
+I helped teachers during classes, answering students' questions and teaching techniques that helped in their development.<br> Skills: Teaching.
 - 2019–2020: **Volunteer**, AIESEC, Natal.
-AIESEC is an NGO that promotes voluntary exchanges in several countries. Its volunteers travel to other countries and work on social causes, seeking to develop a sense of leadership and humanity. I worked as a volunteer in the city of Natal, helping foreign volunteers in their work in this city, working with them on teaching projects and collecting donations for the institutions in which they worked.
+I worked as a volunteer in the city of Natal, helping foreign volunteers in their work in this city, working with them on teaching projects and collecting donations for the institutions in which they worked.<br>
+Skills: Team leadership, English and Spanish.
 - 2011–2013: **Assistant mechanic**, Potiguar Diesel, Caicó-RN.
 I worked as an assistant mechanic. For about a year and eight months
 - 2007–2010: **Administrative Assistant**, Potiguar Diesel, Caicó-RN.
@@ -137,8 +165,7 @@ I worked as an administrative assistant for about three years, the first year in
 ## Knowledge
 
 ### Licenses, courses and certificates
-* **Bootcamp Applied Data Science 2021** - Alura Online Courses, 2020 - Present.
-* **Huawei HCIA-AI** - Huawei/IMD-UFRN, 2020 - Present.
+* **Bootcamp Applied Data Science 2021** - Alura Online Courses, 2020.
 * **Introduction to Programming with MATLAB** - Coursera - 2020
 Credential No. XW7T5KQPYM5E
 * **R Programming** - Coursera - 2020
